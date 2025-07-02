@@ -1,0 +1,12 @@
+site_name: Internal Guide
+site_description: 社内向けドキュメント
+theme:
+  name: material
+  language: ja
+  palette:
+    scheme: default
+    primary: indigo
+   # nav は省略。ファイル名順に自動で並びます
+markdown_extensions:
+  - admonition
+  - footnotes
