@@ -1,0 +1,15 @@
+site_name: Internal Guide
+site_description: Auto-generated guide site
+site_author: Your Company
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.instant
+    - search.highlight
+nav: []
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
